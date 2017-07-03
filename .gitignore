@@ -1,0 +1,13 @@
+.DS_Store
+.Python
+bin
+csv
+dist
+include
+lib
+lib64
+local
+scripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
